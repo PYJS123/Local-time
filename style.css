@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto');
+
+* {
+  text-align: center;
+  font-family: Roboto, Verdana;
+}
+
+body {
+  background-image: url('');
+}
+
+#time {
+  margin: 0px;
+  font-weight: bolder;
+  text-decoration: underline;
+  font-size: 260px;
+}
+
+#phraser {
+  margin-bottom: 0px;
+  font-weight: bold;
+  font-size: 80px;
+}
+
+#credits {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+#pic {
+  position: fixed;
+}
